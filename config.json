@@ -1,0 +1,9 @@
+{
+    "site": {
+        "email": "khushmeet@hey.com",
+        "github": "khushmeeet",
+        "title": "Khushmeet's Blog",
+        "twitter": "@khushmeeet"
+    },
+    "minify_css": false
+}
